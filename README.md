@@ -1,23 +1,8 @@
-https://private-user-images.githubusercontent.com/175128367/348237528-fa5e6fc4-7406-4818-9d25-356115ce0d1f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA4OTc2MTQsIm5iZiI6MTczMDg5NzMxNCwicGF0aCI6Ii8xNzUxMjgzNjcvMzQ4MjM3NTI4LWZhNWU2ZmM0LTc0MDYtNDgxOC05ZDI1LTM1NjExNWNlMGQxZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEwNlQxMjQ4MzRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MTY3MTQ1NjE3ZDk0YTc1NmJmZmU2M2YzNzNkNzYzZTgzMTQ5MjFhNmYwMjdjOGJiNTYwZmViMjNhYWFiNDdjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.lplNGM1ZbYGcihGbbm9EBJs82Vr4dbEJcHj1T7Lpfm0
+
+![PYT](https://github.com/user-attachments/assets/c8664cc0-0743-440e-9a36-ad14b6644bfa)
 
 
 
-Hello everyone 👋 , I would like to share with you the final project of the Python training I received within the scope of data analysis training.In this project I used Jupyter Notebook.
+Hello everyone 👋 , I would like to share with you another project of the Python training I received within the scope of data analysis training.In this project I used Jupyter Notebook.
 
-In this training I've learned;
 
-➡ Basic Operators and Simple Commands in Python
-
-➡ Data Manipulation with Pandas
-
-➡ Data Analysis with Numpy
-
-➡ Data Visualization in Python
-
-➡ Notebooks Used in Python
-
-➡ Exploratory Data Analysis
-
-➡ Data Manipulation
-
-➡ Machine Learning and Data Modeling
